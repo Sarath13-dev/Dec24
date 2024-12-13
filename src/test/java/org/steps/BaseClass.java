@@ -90,7 +90,12 @@ public class BaseClass {
 			System.out.println(response.getBody().asPrettyString());
 			System.out.println("Hi Work Done by QA");
 			System.out.println("QA Work");
+			System.out.println("Developer code");
+			System.out.println("Developer Work");
+
+		
 			
+
 		}
 		
 
