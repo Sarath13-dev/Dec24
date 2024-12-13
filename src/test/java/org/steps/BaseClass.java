@@ -88,9 +88,15 @@ public class BaseClass {
 		// 9. Response Body
 		public static void responseBody() {
 			System.out.println(response.getBody().asPrettyString());
+			System.out.println("Hi Work Done by QA");
+			System.out.println("QA Work");
 			System.out.println("Developer code");
 			System.out.println("Developer Work");
-		}
 
+		
+			
+
+		}
+		
 
 }
